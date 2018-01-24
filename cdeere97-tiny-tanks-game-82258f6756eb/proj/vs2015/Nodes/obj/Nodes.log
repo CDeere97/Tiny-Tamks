@@ -1,0 +1,4 @@
+﻿  Nodes.vcxproj -> C:\Users\Chris\Downloads\cdeere97-tiny-tanks-game-82258f6756eb\cdeere97-tiny-tanks-game-82258f6756eb\proj\vs2015\Nodes\..\..\bin\x64\Debug\Nodes.exe
+  Nodes.vcxproj -> ..\..\bin\x64\Debug\Nodes.pdb (Full PDB)
+  xcopy "C:\Users\Chris\Downloads\cdeere97-tiny-tanks-game-82258f6756eb\cdeere97-tiny-tanks-game-82258f6756eb\scripts\..\resources\"*.* "C:\Users\Chris\Downloads\cdeere97-tiny-tanks-game-82258f6756eb\cdeere97-tiny-tanks-game-82258f6756eb\proj\vs2015\Nodes\..\..\bin\x64\Debug\" /s /y /d /r 
+  0 File(s) copied
